@@ -2,6 +2,11 @@
 
 Next.js 14 + TypeScript + Tailwind CSSで構築されたモダンなTODOアプリケーションです。
 
+## デモ
+
+- **Vercel**: https://todo-eight-xi-97.vercel.app/
+- **GitHub Pages**: https://aoi-chi.github.io/todo/
+
 ## 機能
 
 - **基本的なCRUD操作**
